@@ -35,9 +35,8 @@ namespace whaleysans {
 
             if (dat < 10) {
                 // เลขติดลบหลักเดียว -> เครื่องหมายลบ 2 ช่อง
-                for (let i = 1; i < 4; i++) {
-                    img.setPixel(i, 2, true);
-                }
+                img.setPixel(0, 2, true);
+                img.setPixel(1, 2, true);
                 let b = FONT[dat];
                 for (let i = 0; i < 5; i++) {
                     img.setPixel(3, i, 1 == b[i * 2]);
