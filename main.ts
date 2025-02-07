@@ -25,7 +25,7 @@ namespace whaleysans {
     //% dat.min=-99 dat.max=99
     export function showNumber(dat: number): void {
         if (dat < -99 || dat > 99) {
-            dat = 0; // นอกเหนือขอบเขตให้แสดง 00
+            dat = 0; // นอกเหนือขอบเขตให้แสดง 0
         }
 
         img.clear();
