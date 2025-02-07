@@ -23,7 +23,7 @@ namespace whaleysans {
 
     /**
      * Show a number
-     * @param dat is number to be shown, eg: 13
+     * @param dat is number to be shown, eg: 10
      */
     //% blockId="show_whaleysans_number" block="show a whaleysans number %dat"
     //% dat.min=-99 dat.max=99
