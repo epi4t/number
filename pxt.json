@@ -1,0 +1,12 @@
+{
+    "name": "whaleysans",
+    "version": "0.0.1",
+    "description": "Custom font extension for MakeCode micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
