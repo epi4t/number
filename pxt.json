@@ -1,7 +1,7 @@
 {
     "name": "whaleysans",
     "version": "0.0.2",
-    "description": "Custom font extension for MakeCode micro:bit",
+    "description": "epi font แสดงตัวเลขใน 1 หน้าของ micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
