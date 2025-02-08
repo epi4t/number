@@ -21,7 +21,7 @@ namespace epi4t {
         . . . . .
     `);
 
-    //% blockId="show_whaleysans_number" block="show a whaleysans number %dat"
+    //% blockId="show_epi4t_number" block="show a epi4t number %dat"
     //% dat.min=-99 dat.max=99
     export function showNumber(dat: number): void {
         if (dat < -99 || dat > 99) {
