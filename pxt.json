@@ -1,6 +1,6 @@
 {
     "name": "epi4t",
-    "version": "0.0.3",
+    "version": "1.0.1",
     "description": "epi4t font แสดงตัวเลขใน 1 หน้าของ micro:bit",
     "icon": "icon.png",
     "repo": "https://github.com/epi4t/number",
