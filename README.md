@@ -1,4 +1,4 @@
-# WhaleySans Font Extension for micro:bit
+# epi4t Font Extension for micro:bit
 
 ## วิธีใช้งาน
 1. เปิด [MakeCode for micro:bit](https://makecode.microbit.org/)
