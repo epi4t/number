@@ -1,4 +1,4 @@
-//% weight=100 color=#cc1280 icon="e" block="ep4t Font"
+//% weight=100 color=#cc1280 icon="e" block="epi4t Font"
 namespace epi4t {
     let FONT = [
         [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], // 0
@@ -21,7 +21,7 @@ namespace epi4t {
         . . . . .
     `);
 
-    //% blockId="show_epi4t_number" block="show a epi4t number %dat"
+    //% blockId="show_epi4t_number" block="epi4t number %dat"
     //% dat.min=-99 dat.max=99
     export function showNumber(dat: number): void {
         if (dat < -99 || dat > 99) {
