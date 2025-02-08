@@ -1,7 +1,7 @@
 {
-    "name": "whaleysans",
+    "name": "epi4t",
     "version": "0.0.2",
-    "description": "epi font แสดงตัวเลขใน 1 หน้าของ micro:bit",
+    "description": "epi4t font แสดงตัวเลขใน 1 หน้าของ micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
