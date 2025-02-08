@@ -1,5 +1,5 @@
-//% weight=100 color=#cc1280 icon="F" block="WhaleySans Font"
-namespace whaleysans {
+//% weight=100 color=#cc1280 icon="e" block="ep4t Font"
+namespace epi4t {
     let FONT = [
         [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], // 0
         [0, 1, 0, 1, 0, 1, 0, 1, 0, 1], // 1
