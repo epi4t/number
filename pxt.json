@@ -1,14 +1,13 @@
 {
-    "name": "epi4t",
-    "version": "1.0.1",
-    "description": "epi4t font micro:bit",
-    "icon": "icon.png",
-    "repo": "https://github.com/epi4t/number",
+    "name": "TODE Number!",
+    "version": "1.1.1",
+    "description": "TODE Number Show 1 Page on  micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "main.ts"
-    ]
+    ],
+    "public": true
 }
